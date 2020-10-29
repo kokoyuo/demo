@@ -8,7 +8,7 @@ public class NotifyTest {
 
     public static void main(String[] args) {
         NotifyNumClass nnc = new NotifyNumClass();
-        nnc.incr();
+        //nnc.incr();
         System.out.println("-----------------");
     }
 }
